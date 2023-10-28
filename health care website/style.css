@@ -65,17 +65,6 @@ html {
     top: 100%;
     left: 0;
     margin-top: 5px;
-
-}
-
-@keyframes scroll {
-    from {
-        transform: translateX(0);
-    }
-
-    to {
-        transform: translateX(-100%);
-    }
 }
 
 .icons div {
@@ -151,7 +140,6 @@ html {
 .about {
     padding: 6rem 7%;
     background: var(--third);
-
 }
 
 .main-about {
@@ -168,8 +156,6 @@ html {
 
 .inner-about .inner-about-image img {
     width: 100%;
-
-
 }
 
 .about-content {
